@@ -1,0 +1,2 @@
+wget -r -l 1 -P F:/B -A jpg --n-check-certificate https://stei.itb.ac.id/
+rsync -a --progress /B /AD
